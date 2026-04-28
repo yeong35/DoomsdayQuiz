@@ -105,7 +105,7 @@ function startGame() {
         timeLeft -= 0.1;
 
         const percent = Math.max((timeLeft / totalTime) * 100, 0);
-        timerBar.style.height = percent + "%";
+        timerBar.style.width = percent + "%";
 
         // change the bar color to red
         if (timeLeft <= 10) {
