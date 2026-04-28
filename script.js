@@ -39,7 +39,7 @@ function showQuestion() {
     feedback.textContent = "";
 
     const doomsday = getDoomsday(year);
-    anchorDay.textContent = `${year}년은 ${dayNames[doomsday]}요일`;
+    anchorDay.textContent = `${year}년의 앵커요일은 ${dayNames[doomsday]}요일`;
 }
 
 function getDoomsday(year) {
