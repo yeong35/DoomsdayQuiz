@@ -1,6 +1,6 @@
 let score = 0;
-let totalTime = 60;
-let timeLeft = 60;
+let totalTime = 120;
+let timeLeft = 120;
 let currentDate = null;
 let currentAnswer = null;
 let timerId = null;
@@ -20,7 +20,7 @@ const mainboard = document.querySelector("#mainboard");
 const dayNames = ["일", "월", "화", "수", "목", "금", "토"];
 
 function getRandomDate() {
-    const year = Math.floor(Math.random() * 5) + 2026;
+    const year = Math.floor(Math.random() * 10) + 2016;
     const month = Math.floor(Math.random() * 12);
     const day = Math.floor(Math.random() * 28) + 1;
 
