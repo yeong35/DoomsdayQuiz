@@ -5,6 +5,11 @@ A simple web game to practice the Doomsday Algorithm.
 Given a random date, guess the correct day of the week within a time limit.
 
 ---
+## Demo
+
+[Play the Game](https://your-vercel-or-github-pages-link)
+
+---
 
 ## Features
 
