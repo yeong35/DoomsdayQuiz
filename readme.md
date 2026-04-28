@@ -7,13 +7,15 @@ Given a random date, guess the correct day of the week within a time limit.
 ---
 ## Demo
 
-[Play the Game](https://doomsday-quiz.vercel.app/)
+[![Play Demo](./example.png)](https://doomsday-quiz.vercel.app/)
+
+Click the image to play :>
 
 ---
 
 ## Features
 
-- 60-second timer
+- 120-second timer
 - Random date generation
 - Instant feedback on answers
 - Hint system (hover to see anchor day)
