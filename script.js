@@ -20,7 +20,7 @@ const mainboard = document.querySelector("#mainboard");
 const dayNames = ["일", "월", "화", "수", "목", "금", "토"];
 
 function getRandomDate() {
-    const year = Math.floor(Math.random() * 10) + 2016;
+    const year = Math.floor(Math.random() * 10) + 2021;
     const month = Math.floor(Math.random() * 12);
     const day = Math.floor(Math.random() * 28) + 1;
 
