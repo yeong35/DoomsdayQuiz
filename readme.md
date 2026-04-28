@@ -7,7 +7,7 @@ Given a random date, guess the correct day of the week within a time limit.
 ---
 ## Demo
 
-[Play the Game](https://your-vercel-or-github-pages-link)
+[Play the Game](https://doomsday-quiz.vercel.app/)
 
 ---
 
